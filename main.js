@@ -24,5 +24,5 @@ newQuotebutton.addEventListener("click", function(event)
           });
 });
 
-
+newQuotebutton.click();
 
